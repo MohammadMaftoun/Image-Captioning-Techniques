@@ -8,7 +8,7 @@ This repository is dedicated to various image captioning techniques, where the g
 ![IMCP](https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs13218-020-00679-2/MediaObjects/13218_2020_679_Fig2_HTML.png)
 
 
-# Features
+# Features 🚀
 
     Basic Methods:
         Template-based captioning
