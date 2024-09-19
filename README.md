@@ -2,7 +2,7 @@
 
 Welcome to the Image Captioning Techniques repository! 📸📝
 
-This repository is dedicated to various image captioning techniques, which aim to generate meaningful textual explanations for images automatically. Image captioning is a fascinating intersection of computer vision and natural language processing (NLP), used in applications such as automated content creation, accessibility for visually impaired individuals, and more.
+This repository is devoted to various image captioning techniques, which aim to generate meaningful textual explanations for images automatically. Image captioning is a fascinating intersection of computer vision and natural language processing (NLP), used in applications such as automated content creation, accessibility for visually impaired individuals, and more.
 
 
 ![IMCP](https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs13218-020-00679-2/MediaObjects/13218_2020_679_Fig2_HTML.png)
