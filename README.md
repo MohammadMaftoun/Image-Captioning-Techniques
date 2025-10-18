@@ -48,7 +48,7 @@ Instructions for setting up the environment, training models, evaluating perform
 
 # Pretrained Models
 
-This repository contains pre-trained models on standard datasets, allowing users to generate captions for their images.
+This repository includes pre-trained models on standard datasets, allowing users to generate captions for their images.
 
 # Contributions
 
