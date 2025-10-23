@@ -52,4 +52,4 @@ This repository includes pre-trained models on standard datasets, allowing users
 
 # Contributions
 
-Contributions are welcome! Whether you want to implement new image captioning methods, improve existing models, or enhance the documentation, feel free to submit pull requests.
+Contributions are welcome! Whether you want to implement new image captioning methods, enhance existing models, or enhance the documentation, feel free to submit pull requests.
